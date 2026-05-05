@@ -1,0 +1,29 @@
+[ {
+  "paymentId" : "PAY-100",
+  "orderId" : "O-100",
+  "userId" : null,
+  "amount" : 9.98,
+  "paymentMethod" : "CREDIT_CARD",
+  "paymentStatus" : "COMPLETED"
+}, {
+  "paymentId" : "PAY-102458",
+  "orderId" : "O-102458",
+  "userId" : "U-48f8ca0d",
+  "amount" : 12.99,
+  "paymentMethod" : "CREDIT_CARD",
+  "paymentStatus" : "COMPLETED"
+}, {
+  "paymentId" : "PAY-987744",
+  "orderId" : "O-987744",
+  "userId" : "U-8f2861ae",
+  "amount" : 8.97,
+  "paymentMethod" : "CREDIT_CARD",
+  "paymentStatus" : "COMPLETED"
+}, {
+  "paymentId" : "PAY-880689",
+  "orderId" : "O-880689",
+  "userId" : "U-c3138b2e",
+  "amount" : 3.49,
+  "paymentMethod" : "CREDIT_CARD",
+  "paymentStatus" : "COMPLETED"
+} ]
