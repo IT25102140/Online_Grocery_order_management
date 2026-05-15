@@ -1,5 +1,6 @@
 package com.onlinegrocery.backend.model;
 public class Payment {
+    //Encapsulated attributes
     private String paymentId;
     private String orderId;
     private String userId;
