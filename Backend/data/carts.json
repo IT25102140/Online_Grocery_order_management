@@ -1,0 +1,24 @@
+[ {
+  "cartId" : "C-100",
+  "userId" : "U-100",
+  "items" : [ {
+    "productId" : "P-100",
+    "quantity" : 2
+  } ],
+  "totalPrice" : 9.98
+}, {
+  "cartId" : "C-U-48f8ca0d",
+  "userId" : "U-48f8ca0d",
+  "items" : [ ],
+  "totalPrice" : 0.0
+}, {
+  "cartId" : "C-U-c3138b2e",
+  "userId" : "U-c3138b2e",
+  "items" : [ ],
+  "totalPrice" : 0.0
+}, {
+  "cartId" : "C-U-8f2861ae",
+  "userId" : "U-8f2861ae",
+  "items" : [ ],
+  "totalPrice" : 0.0
+} ]
