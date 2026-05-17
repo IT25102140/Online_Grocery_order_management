@@ -27,7 +27,7 @@ public class PaymentController {
     public ResponseEntity<List<Payment>> getPaymentsByUser(@PathVariable String userId) {
         return ResponseEntity.ok(paymentService.getPaymentsByUserId(userId));
     }
-
+    //Deleting paymet using useer id
     @DeleteMapping("/{id}")
     public ResponseEntity<Void> deletePayment(@PathVariable String id) {
         paymentService.deletePayment(id);
