@@ -7,7 +7,7 @@ public class Payment {
     private double amount;
     private PaymentMethod paymentMethod;
     private String paymentStatus;
-
+     //Getters and Setters
     public String getPaymentId() { return paymentId; }
     public void setPaymentId(String paymentId) { this.paymentId = paymentId; }
     public String getOrderId() { return orderId; }
