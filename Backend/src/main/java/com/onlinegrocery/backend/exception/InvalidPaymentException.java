@@ -4,6 +4,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 
 @ResponseStatus(HttpStatus.BAD_REQUEST)
 public class InvalidPaymentException extends RuntimeException {
+    //Error message
     public InvalidPaymentException(String message) {
         super(message);
     }
