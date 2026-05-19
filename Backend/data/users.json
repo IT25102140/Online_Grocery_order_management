@@ -1,0 +1,19 @@
+[ {
+  "userId" : "U-f100b7df",
+  "name" : "isuru lakshan",
+  "email" : "isuru21256@gmail.com",
+  "password" : "••••••••••",
+  "role" : "REGULAR"
+}, {
+  "userId" : "U-8f2861ae",
+  "name" : "Tharindu Sada",
+  "email" : "dazlan@gmail.com",
+  "password" : "123",
+  "role" : "REGULAR"
+}, {
+  "userId" : "U-c3138b2e",
+  "name" : "isuru lakshan",
+  "email" : "isurulakshan21256@gmail.com",
+  "password" : "123",
+  "role" : "REGULAR"
+} ]
