@@ -1,0 +1,29 @@
+[ {
+  "orderId" : "O-100",
+  "userId" : "U-100",
+  "cartId" : "C-100",
+  "status" : "PENDING",
+  "shippingAddress" : "123 Main St",
+  "orderDate" : "2026-05-02"
+}, {
+  "orderId" : "O-102458",
+  "userId" : "U-48f8ca0d",
+  "cartId" : "C-U-48f8ca0d",
+  "status" : "PENDING",
+  "shippingAddress" : "878",
+  "orderDate" : "2026-05-02"
+}, {
+  "orderId" : "O-987744",
+  "userId" : "U-8f2861ae",
+  "cartId" : "C-U-8f2861ae",
+  "status" : "PENDING",
+  "shippingAddress" : "67",
+  "orderDate" : "2026-05-02"
+}, {
+  "orderId" : "O-880689",
+  "userId" : "U-c3138b2e",
+  "cartId" : "C-U-c3138b2e",
+  "status" : "PENDING",
+  "shippingAddress" : "323",
+  "orderDate" : "2026-05-02"
+} ]
