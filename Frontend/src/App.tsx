@@ -24,6 +24,8 @@ import { Products } from './pages/admin/Products';
 import { Customers } from './pages/admin/Customers';
 import { Settings } from './pages/admin/Settings';
 import { Payments } from './pages/admin/Payments';
+import { Suppliers } from './pages/admin/Suppliers';
+import { SupplierDetail } from './pages/admin/SupplierDetail';
 
 function App() {
   return (
@@ -58,6 +60,8 @@ function App() {
               <Route path="products" element={<Products />} />
               <Route path="customers" element={<Customers />} />
               <Route path="payments" element={<Payments />} />
+              <Route path="suppliers" element={<Suppliers />} />
+              <Route path="suppliers/:id" element={<SupplierDetail />} />
               <Route path="settings" element={<Settings />} />
             </Route>
           </Routes>

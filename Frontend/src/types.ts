@@ -14,3 +14,21 @@ export type Product = BaseProduct;
 export interface CartItemType extends Product {
     quantity: number;
 }
+
+export interface SupplierItem {
+  itemId: string;
+  name: string;
+  quantity: number;
+  wholesalePrice: number;
+}
+
+export interface Supplier {
+  supplierId: string;
+  name: string;
+  contactPerson: string;
+  email: string;
+  phone: string;
+  address: string;
+  status: string;
+  items: SupplierItem[];
+}

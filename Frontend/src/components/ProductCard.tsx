@@ -37,7 +37,7 @@ export function ProductCard({ product }: ProductCardProps) {
                             {product.name}
                         </h3>
                         <span className="text-lg font-black text-primary-600">
-                            ${product.price.toFixed(2)}
+                            Rs. {product.price.toFixed(2)}
                         </span>
                     </div>
 

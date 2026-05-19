@@ -183,7 +183,7 @@ export function Checkout() {
                        Processing Protocol...
                      </>
                    ) : (
-                     `Pay $${Math.max(0, cartTotal).toFixed(2)} Securely`
+                     `Pay Rs. ${Math.max(0, cartTotal).toFixed(2)} Securely`
                    )}
                  </button>
                  <p className="text-center text-xs text-gray-400 mt-3 flex items-center justify-center gap-1">
@@ -208,7 +208,7 @@ export function Checkout() {
                     <div className="flex-1">
                        <h4 className="font-bold text-gray-900 text-sm">{item.name}</h4>
                        <p className="text-xs text-gray-500">Qty: {item.quantity}</p>
-                       <p className="text-primary-600 font-bold text-sm mt-1">${(item.price * item.quantity).toFixed(2)}</p>
+                       <p className="text-primary-600 font-bold text-sm mt-1">Rs. {(item.price * item.quantity).toFixed(2)}</p>
                     </div>
                  </div>
                ))}
@@ -217,11 +217,11 @@ export function Checkout() {
              <div className="border-t border-gray-200 pt-6 space-y-3">
                <div className="flex justify-between text-gray-600 text-sm">
                  <span>Subtotal</span>
-                 <span className="font-semibold">${cartTotal.toFixed(2)}</span>
+                 <span className="font-semibold">Rs. {cartTotal.toFixed(2)}</span>
                </div>
                <div className="flex justify-between text-gray-600 text-sm">
                  <span>Taxes & Fees</span>
-                 <span className="font-semibold">$0.00</span>
+                 <span className="font-semibold">Rs. 0.00</span>
                </div>
                <div className="flex justify-between text-gray-600 text-sm">
                  <span>Shipping</span>
@@ -230,7 +230,7 @@ export function Checkout() {
 
                <div className="pt-4 mt-4 border-t border-gray-200 flex justify-between items-center">
                  <span className="font-bold text-gray-900">Total</span>
-                 <span className="text-2xl font-black text-gray-900">${cartTotal.toFixed(2)}</span>
+                 <span className="text-2xl font-black text-gray-900">Rs. {cartTotal.toFixed(2)}</span>
                </div>
              </div>
           </div>

@@ -35,7 +35,7 @@ export function PreviousPayments() {
             <p className="text-gray-400 text-xs">{p.paymentMethod?.replace('_', ' ')}</p>
           </div>
           <div className="text-right">
-            <p className="text-xl font-black text-gray-900">${p.amount.toFixed(2)}</p>
+            <p className="text-xl font-black text-gray-900">Rs. {p.amount.toFixed(2)}</p>
             <span className={`px-3 py-1 rounded-full text-xs font-bold ${p.paymentStatus === 'COMPLETED' ? 'bg-green-50 text-green-700' : 'bg-gray-100 text-gray-600'}`}>{p.paymentStatus}</span>
           </div>
         </div>
