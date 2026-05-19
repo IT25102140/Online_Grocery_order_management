@@ -1,0 +1,65 @@
+[
+  {
+    "supplierId": "S-001",
+    "name": "Fresh Farms Co.",
+    "contactPerson": "Alice Smith",
+    "email": "alice@freshfarms.com",
+    "phone": "555-0101",
+    "address": "123 Valley Road, Farmville",
+    "status": "ACTIVE",
+    "items": [
+      {
+        "itemId": "I-001",
+        "name": "Organic Bananas",
+        "quantity": 500,
+        "wholesalePrice": 1.50
+      },
+      {
+        "itemId": "I-002",
+        "name": "Apples",
+        "quantity": 1000,
+        "wholesalePrice": 0.80
+      }
+    ]
+  },
+  {
+    "supplierId": "S-002",
+    "name": "Dairy Best Distributors",
+    "contactPerson": "Bob Johnson",
+    "email": "bob@dairybest.com",
+    "phone": "555-0202",
+    "address": "456 Milk Street, Cowtown",
+    "status": "ACTIVE",
+    "items": [
+      {
+        "itemId": "I-003",
+        "name": "Whole Milk 1 Gallon",
+        "quantity": 200,
+        "wholesalePrice": 2.50
+      },
+      {
+        "itemId": "I-004",
+        "name": "Cheddar Cheese 8oz",
+        "quantity": 150,
+        "wholesalePrice": 3.00
+      }
+    ]
+  },
+  {
+    "supplierId": "S-003",
+    "name": "Ocean Catch Seafood",
+    "contactPerson": "Charlie Davis",
+    "email": "charlie@oceancatch.com",
+    "phone": "555-0303",
+    "address": "789 Pier Ave, Harbor City",
+    "status": "INACTIVE",
+    "items": [
+      {
+        "itemId": "I-005",
+        "name": "Atlantic Salmon Fillet",
+        "quantity": 50,
+        "wholesalePrice": 8.50
+      }
+    ]
+  }
+]

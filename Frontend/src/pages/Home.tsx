@@ -51,7 +51,7 @@ export function Home() {
                             <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8" /></svg>
                         </div>
                         <h3 className="text-xl font-bold text-gray-900">Free Same-Day Delivery</h3>
-                        <p className="text-gray-500 text-sm leading-relaxed">On all orders over $50 placed before 2 PM.</p>
+                        <p className="text-gray-500 text-sm leading-relaxed">On all orders over Rs. 50 placed before 2 PM.</p>
                     </div>
 
                     <div className="bg-white p-8 rounded-3xl shadow-xl shadow-gray-200/50 border border-gray-100 flex flex-col items-start gap-4 transform transition-transform hover:-translate-y-2">

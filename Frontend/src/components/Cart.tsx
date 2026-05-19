@@ -72,7 +72,7 @@ export function Cart({ isOpen, onClose }: CartProps) {
                                                 </svg>
                                             </button>
                                         </div>
-                                        <p className="text-primary-600 font-black text-sm">${item.price.toFixed(2)}</p>
+                                        <p className="text-primary-600 font-black text-sm">Rs. {item.price.toFixed(2)}</p>
                                     </div>
 
                                     {/* Quantity Controls */}
@@ -107,7 +107,7 @@ export function Cart({ isOpen, onClose }: CartProps) {
                         <div className="flex items-center justify-between mb-4">
                             <span className="text-gray-500 font-medium">Total</span>
                             <span className="text-2xl font-black text-gray-900">
-                                ${cartTotal.toFixed(2)}
+                                Rs. {cartTotal.toFixed(2)}
                             </span>
                         </div>
                         <button 

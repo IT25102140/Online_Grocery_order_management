@@ -101,8 +101,8 @@ export function ProductDetail() {
                             {product.name}
                         </h1>
                         <p className="text-3xl font-black text-primary-600 mb-6 flex items-baseline gap-2">
-                            ${product.price.toFixed(2)}
-                            <span className="text-lg text-gray-400 font-medium line-through">${(product.price * 1.25).toFixed(2)}</span>
+                            Rs. {product.price.toFixed(2)}
+                            <span className="text-lg text-gray-400 font-medium line-through">Rs. {(product.price * 1.25).toFixed(2)}</span>
                         </p>
 
                         <div className="prose prose-lg text-gray-500 max-w-none">
@@ -149,7 +149,7 @@ export function ProductDetail() {
                                 <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" />
                                 </svg>
-                                Add {localQuantity} to Cart • ${(product.price * localQuantity).toFixed(2)}
+                                Add {localQuantity} to Cart • Rs. ${(product.price * localQuantity).toFixed(2)}
                             </button>
                         </div>
                     </div>

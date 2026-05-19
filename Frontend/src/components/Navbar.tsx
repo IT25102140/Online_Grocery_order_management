@@ -92,7 +92,7 @@ export function Navbar({ onCartClick }: NavbarProps) {
                                                 <img src={product.imageUrl} alt={product.name} className="w-12 h-12 object-cover rounded-lg" />
                                                 <div>
                                                     <p className="font-bold text-gray-900 text-sm">{product.name}</p>
-                                                    <p className="text-primary-600 font-bold text-xs">${product.price.toFixed(2)}</p>
+                                                    <p className="text-primary-600 font-bold text-xs">Rs. {product.price.toFixed(2)}</p>
                                                 </div>
                                             </Link>
                                         </li>
