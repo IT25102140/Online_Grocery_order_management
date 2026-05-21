@@ -26,4 +26,11 @@
   "amount" : 3.49,
   "paymentMethod" : "CREDIT_CARD",
   "paymentStatus" : "COMPLETED"
+}, {
+  "paymentId" : "PAY-697397",
+  "orderId" : "O-697397",
+  "userId" : "U-233fc7e5",
+  "amount" : 400.0,
+  "paymentMethod" : "CREDIT_CARD",
+  "paymentStatus" : "COMPLETED"
 } ]

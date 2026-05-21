@@ -16,4 +16,10 @@
   "email" : "isurulakshan21256@gmail.com",
   "password" : "123",
   "role" : "REGULAR"
+}, {
+  "userId" : "U-233fc7e5",
+  "name" : "Avinash jeeva",
+  "email" : "avijeeva6@gmail.com",
+  "password" : "Avinash2663",
+  "role" : "REGULAR"
 } ]
