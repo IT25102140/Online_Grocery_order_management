@@ -51,46 +51,7 @@ export function About() {
                 </div>
             </div>
 
-            {/* Team / Behind the Scenes Placeholder */}
-            <div className="max-w-7xl mx-auto text-center bg-gray-50 rounded-3xl py-16 px-6 border border-gray-100">
-                <span className="text-primary-600 font-bold tracking-wider uppercase text-sm mb-2 block">Our Team</span>
-                <h2 className="text-3xl font-bold text-gray-900 mb-12">The People Behind FreshCart</h2>
 
-                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
-                    {/* Team Member 1 */}
-                    <div className="space-y-4">
-                        <div className="w-48 h-48 mx-auto bg-gray-200 rounded-full overflow-hidden">
-                            <img src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80&w=400" alt="Sarah J" className="w-full h-full object-cover" />
-                        </div>
-                        <div>
-                            <h3 className="text-xl font-bold text-gray-900">Sarah Jenkins</h3>
-                            <p className="text-primary-600 font-medium">Founder & CEO</p>
-                        </div>
-                    </div>
-
-                    {/* Team Member 2 */}
-                    <div className="space-y-4">
-                        <div className="w-48 h-48 mx-auto bg-gray-200 rounded-full overflow-hidden">
-                            <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=400" alt="Michael C" className="w-full h-full object-cover" />
-                        </div>
-                        <div>
-                            <h3 className="text-xl font-bold text-gray-900">Michael Chen</h3>
-                            <p className="text-primary-600 font-medium">Head of Sourcing</p>
-                        </div>
-                    </div>
-
-                    {/* Team Member 3 */}
-                    <div className="space-y-4 sm:col-span-2 md:col-span-1">
-                        <div className="w-48 h-48 mx-auto bg-gray-200 rounded-full overflow-hidden">
-                            <img src="https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&q=80&w=400" alt="Emma T" className="w-full h-full object-cover" />
-                        </div>
-                        <div>
-                            <h3 className="text-xl font-bold text-gray-900">Emma Thompson</h3>
-                            <p className="text-primary-600 font-medium">Lead Logistics</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
     );
 }
