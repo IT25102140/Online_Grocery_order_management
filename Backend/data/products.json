@@ -1,254 +1,182 @@
 [
   {
     "productType": "PERISHABLE",
-    "productId": "P001",
-    "name": "Red Apple (1 pc)",
-    "price": 150.0,
-    "imageUrl": "https://loremflickr.com/320/240/apple,fruit",
-    "description": "Fresh imported red apple",
-    "category": "Produce"
+    "productId": "P045",
+    "name": "Mango (1 pc)",
+    "price": 280.0,
+    "imageUrl": "https://images.unsplash.com/photo-1553279768-865429fa0078",
+    "description": "Sweet ripe mango",
+    "category": "Produce",
+    "expiryDate": "2026-12-31"
   },
   {
     "productType": "PERISHABLE",
-    "productId": "P002",
-    "name": "Bananas (1 kg)",
-    "price": 400.0,
-    "imageUrl": "https://loremflickr.com/320/240/banana",
-    "description": "Fresh local bananas",
-    "category": "Produce"
+    "productId": "P046",
+    "name": "Pineapple (1 pc)",
+    "price": 750.0,
+    "imageUrl": "https://images.unsplash.com/photo-1589820296156-2454bb8a6ad1",
+    "description": "Fresh tropical pineapple",
+    "category": "Produce",
+    "expiryDate": "2026-12-31"
   },
   {
     "productType": "PERISHABLE",
-    "productId": "P003",
-    "name": "Carrots (1 kg)",
-    "price": 350.0,
-    "imageUrl": "https://loremflickr.com/320/240/carrot",
-    "description": "Organic carrots from local farms",
-    "category": "Produce"
+    "productId": "P047",
+    "name": "Lettuce (1 pc)",
+    "price": 220.0,
+    "imageUrl": "https://images.unsplash.com/photo-1622206151246-1accc4f37f2a",
+    "description": "Fresh green lettuce",
+    "category": "Produce",
+    "expiryDate": "2026-12-31"
   },
   {
     "productType": "PERISHABLE",
-    "productId": "P004",
-    "name": "Tomatoes (1 kg)",
-    "price": 300.0,
-    "imageUrl": "https://loremflickr.com/320/240/tomato",
-    "description": "Fresh red tomatoes",
-    "category": "Produce"
+    "productId": "P048",
+    "name": "Cucumber (1 kg)",
+    "price": 240.0,
+    "imageUrl": "https://images.unsplash.com/photo-1604977042946-1eecc30f269e",
+    "description": "Fresh crunchy cucumbers",
+    "category": "Produce",
+    "expiryDate": "2026-12-31"
   },
   {
     "productType": "PERISHABLE",
-    "productId": "P005",
-    "name": "Fresh Milk (1L)",
-    "price": 500.0,
-    "imageUrl": "https://loremflickr.com/320/240/milk",
-    "description": "Pasteurized full cream milk",
-    "category": "Dairy & Eggs"
+    "productId": "P049",
+    "name": "Greek Yogurt",
+    "price": 480.0,
+    "imageUrl": "https://images.unsplash.com/photo-1488477181946-6428a0291777",
+    "description": "Creamy Greek yogurt cup",
+    "category": "Dairy & Eggs",
+    "expiryDate": "2026-12-31"
   },
   {
     "productType": "PERISHABLE",
-    "productId": "P006",
-    "name": "Fresh Eggs (10 pcs)",
-    "price": 550.0,
-    "imageUrl": "https://loremflickr.com/320/240/eggs",
-    "description": "Farm fresh eggs",
-    "category": "Dairy & Eggs"
-  },
-  {
-    "productType": "PERISHABLE",
-    "productId": "P007",
-    "name": "Cheddar Cheese",
-    "price": 850.0,
-    "imageUrl": "https://loremflickr.com/320/240/cheese",
-    "description": "Premium cheddar cheese block",
-    "category": "Dairy & Eggs"
-  },
-  {
-    "productType": "PERISHABLE",
-    "productId": "P008",
-    "name": "Butter (250g)",
-    "price": 700.0,
-    "imageUrl": "https://loremflickr.com/320/240/butter",
-    "description": "Creamy salted butter",
-    "category": "Dairy & Eggs"
-  },
-  {
-    "productType": "PERISHABLE",
-    "productId": "P009",
-    "name": "Chicken Breast (1 kg)",
-    "price": 1400.0,
-    "imageUrl": "https://loremflickr.com/320/240/chicken,meat",
-    "description": "Fresh boneless chicken breast",
-    "category": "Meat & Seafood"
-  },
-  {
-    "productType": "PERISHABLE",
-    "productId": "P010",
-    "name": "Beef Steak (1 kg)",
-    "price": 3200.0,
-    "imageUrl": "https://loremflickr.com/320/240/beef,meat",
-    "description": "Premium beef steak cuts",
-    "category": "Meat & Seafood"
-  },
-  {
-    "productType": "PERISHABLE",
-    "productId": "P011",
-    "name": "Thora Fish (1 kg)",
-    "price": 5400.0,
-    "imageUrl": "https://loremflickr.com/320/240/fish,seafood",
-    "description": "Fresh Seer fish slices",
-    "category": "Meat & Seafood"
-  },
-  {
-    "productType": "PERISHABLE",
-    "productId": "P012",
-    "name": "Kelawalla Tuna (1 kg)",
-    "price": 3000.0,
-    "imageUrl": "https://loremflickr.com/320/240/tuna,fish",
-    "description": "Fresh tuna fish cuts",
-    "category": "Meat & Seafood"
-  },
-  {
-    "productType": "PERISHABLE",
-    "productId": "P013",
-    "name": "White Bread",
-    "price": 200.0,
-    "imageUrl": "https://loremflickr.com/320/240/bread",
-    "description": "Fresh baked white bread",
-    "category": "Bakery"
-  },
-  {
-    "productType": "PERISHABLE",
-    "productId": "P014",
-    "name": "Chocolate Cake",
-    "price": 1800.0,
-    "imageUrl": "https://loremflickr.com/320/240/cake",
-    "description": "Rich chocolate cream cake",
-    "category": "Bakery"
-  },
-  {
-    "productType": "PERISHABLE",
-    "productId": "P015",
-    "name": "Butter Croissant",
-    "price": 350.0,
-    "imageUrl": "https://loremflickr.com/320/240/croissant",
-    "description": "Fresh French butter croissant",
-    "category": "Bakery"
-  },
-  {
-    "productType": "NON_PERISHABLE",
-    "productId": "P016",
-    "name": "Samba Rice (1 kg)",
-    "price": 250.0,
-    "imageUrl": "https://loremflickr.com/320/240/rice",
-    "description": "Premium samba rice",
-    "category": "Pantry Staples",
-    "warrantyMonths": 0
-  },
-  {
-    "productType": "NON_PERISHABLE",
-    "productId": "P017",
-    "name": "Spaghetti Pasta",
-    "price": 450.0,
-    "imageUrl": "https://loremflickr.com/320/240/pasta",
-    "description": "Italian spaghetti pasta",
-    "category": "Pantry Staples",
-    "warrantyMonths": 0
-  },
-  {
-    "productType": "NON_PERISHABLE",
-    "productId": "P018",
-    "name": "Tomato Sauce",
-    "price": 380.0,
-    "imageUrl": "https://loremflickr.com/320/240/sauce",
-    "description": "Rich tomato pasta sauce",
-    "category": "Pantry Staples",
-    "warrantyMonths": 0
-  },
-  {
-    "productType": "NON_PERISHABLE",
-    "productId": "P019",
-    "name": "Potato Chips",
-    "price": 250.0,
-    "imageUrl": "https://loremflickr.com/320/240/chips",
-    "description": "Crispy salted potato chips",
-    "category": "Snacks & Candy",
-    "warrantyMonths": 0
-  },
-  {
-    "productType": "NON_PERISHABLE",
-    "productId": "P020",
-    "name": "Chocolate Donut",
-    "price": 180.0,
-    "imageUrl": "https://loremflickr.com/320/240/donut",
-    "description": "Soft chocolate donut",
-    "category": "Snacks & Candy",
-    "warrantyMonths": 0
-  },
-  {
-    "productType": "NON_PERISHABLE",
-    "productId": "P021",
-    "name": "Gummy Candy Pack",
-    "price": 320.0,
-    "imageUrl": "https://loremflickr.com/320/240/candy",
-    "description": "Mixed fruit gummy candies",
-    "category": "Snacks & Candy",
-    "warrantyMonths": 0
-  },
-  {
-    "productType": "NON_PERISHABLE",
-    "productId": "P022",
-    "name": "Orange Juice",
-    "price": 650.0,
-    "imageUrl": "https://loremflickr.com/320/240/orange,juice",
-    "description": "Fresh orange juice bottle",
-    "category": "Beverages",
-    "warrantyMonths": 0
-  },
-  {
-    "productType": "NON_PERISHABLE",
-    "productId": "P023",
-    "name": "Coca Cola (1.5L)",
-    "price": 420.0,
-    "imageUrl": "https://loremflickr.com/320/240/cola,drink",
-    "description": "Refreshing soft drink",
-    "category": "Beverages",
-    "warrantyMonths": 0
-  },
-  {
-    "productType": "NON_PERISHABLE",
-    "productId": "P024",
-    "name": "Coffee Powder",
+    "productId": "P050",
+    "name": "Paneer Cheese",
     "price": 950.0,
-    "imageUrl": "https://loremflickr.com/320/240/coffee",
-    "description": "Premium instant coffee powder",
+    "imageUrl": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7",
+    "description": "Fresh homemade paneer",
+    "category": "Dairy & Eggs",
+    "expiryDate": "2026-12-31"
+  },
+  {
+    "productType": "PERISHABLE",
+    "productId": "P051",
+    "name": "Salmon Fillet (500g)",
+    "price": 4200.0,
+    "imageUrl": "https://images.unsplash.com/photo-1599084993091-1cb5c0721cc6",
+    "description": "Fresh premium salmon fillet",
+    "category": "Meat & Seafood",
+    "expiryDate": "2026-12-31"
+  },
+  {
+    "productType": "PERISHABLE",
+    "productId": "P052",
+    "name": "Chicken Sausages",
+    "price": 1100.0,
+    "imageUrl": "https://images.unsplash.com/photo-1615937691194-97dbd3f3dc29",
+    "description": "Smoked chicken sausages",
+    "category": "Meat & Seafood",
+    "expiryDate": "2026-12-31"
+  },
+  {
+    "productType": "PERISHABLE",
+    "productId": "P053",
+    "name": "Bagel Bread",
+    "price": 390.0,
+    "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff",
+    "description": "Fresh baked bagels",
+    "category": "Bakery",
+    "expiryDate": "2026-12-31"
+  },
+  {
+    "productType": "PERISHABLE",
+    "productId": "P054",
+    "name": "Vanilla Cupcake",
+    "price": 260.0,
+    "imageUrl": "https://images.unsplash.com/photo-1486427944299-d1955d23e34d",
+    "description": "Soft vanilla cream cupcake",
+    "category": "Bakery",
+    "expiryDate": "2026-12-31"
+  },
+  {
+    "productType": "NON_PERISHABLE",
+    "productId": "P055",
+    "name": "Olive Oil",
+    "price": 2400.0,
+    "imageUrl": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5",
+    "description": "Extra virgin olive oil",
+    "category": "Pantry Staples",
+    "warrantyMonths": 0
+  },
+  {
+    "productType": "NON_PERISHABLE",
+    "productId": "P056",
+    "name": "Instant Noodles",
+    "price": 180.0,
+    "imageUrl": "https://images.unsplash.com/photo-1612929633738-8fe44f7ec841",
+    "description": "Quick instant noodles pack",
+    "category": "Pantry Staples",
+    "warrantyMonths": 0
+  },
+  {
+    "productType": "NON_PERISHABLE",
+    "productId": "P057",
+    "name": "Popcorn Pack",
+    "price": 340.0,
+    "imageUrl": "https://images.unsplash.com/photo-1578849278619-e73505e9610f",
+    "description": "Butter flavored popcorn",
+    "category": "Snacks & Candy",
+    "warrantyMonths": 0
+  },
+  {
+    "productType": "NON_PERISHABLE",
+    "productId": "P058",
+    "name": "Marshmallows",
+    "price": 450.0,
+    "imageUrl": "https://images.unsplash.com/photo-1511381939415-e44015466834",
+    "description": "Soft sweet marshmallows",
+    "category": "Snacks & Candy",
+    "warrantyMonths": 0
+  },
+  {
+    "productType": "NON_PERISHABLE",
+    "productId": "P059",
+    "name": "Energy Drink",
+    "price": 420.0,
+    "imageUrl": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97",
+    "description": "Refreshing energy beverage",
+    "category": "Beverages",
+    "warrantyMonths": 0
+  },
+  {
+    "productType": "NON_PERISHABLE",
+    "productId": "P060",
+    "name": "Hot Chocolate Mix",
+    "price": 720.0,
+    "imageUrl": "https://images.unsplash.com/photo-1511920170033-f8396924c348",
+    "description": "Rich creamy hot chocolate",
     "category": "Beverages",
     "warrantyMonths": 0
   },
   {
     "productType": "PERISHABLE",
-    "productId": "P025",
-    "name": "Frozen Chicken Nuggets",
-    "price": 1200.0,
-    "imageUrl": "https://loremflickr.com/320/240/frozen,food",
-    "description": "Frozen crispy chicken nuggets",
-    "category": "Frozen Foods"
+    "productId": "P061",
+    "name": "Frozen Garlic Bread",
+    "price": 680.0,
+    "imageUrl": "https://images.unsplash.com/photo-1509440159596-0249088772ff",
+    "description": "Ready-to-bake garlic bread",
+    "category": "Frozen Foods",
+    "expiryDate": "2026-12-31"
   },
   {
     "productType": "PERISHABLE",
-    "productId": "P026",
-    "name": "Frozen French Fries",
-    "price": 850.0,
-    "imageUrl": "https://loremflickr.com/320/240/fries",
-    "description": "Frozen potato fries",
-    "category": "Frozen Foods"
-  },
-  {
-    "productType": "PERISHABLE",
-    "productId": "P027",
-    "name": "Frozen Pizza",
-    "price": 1750.0,
-    "imageUrl": "https://loremflickr.com/320/240/pizza",
-    "description": "Ready-to-bake frozen pizza",
-    "category": "Frozen Foods"
+    "productId": "P062",
+    "name": "Frozen Berry Mix",
+    "price": 1150.0,
+    "imageUrl": "https://images.unsplash.com/photo-1464965911861-746a04b4bca6",
+    "description": "Mixed frozen berries",
+    "category": "Frozen Foods",
+    "expiryDate": "2026-12-31"
   }
 ]
